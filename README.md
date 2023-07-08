@@ -1,4 +1,4 @@
-# esc_pos_printer
+# esc_pos_printer_ex
 
 [![Pub Version](https://img.shields.io/pub/v/esc_pos_printer)](https://pub.dev/packages/esc_pos_printer)
 
